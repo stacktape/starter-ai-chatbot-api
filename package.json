@@ -1,0 +1,17 @@
+{
+  "name": "ai-chatbot-api",
+  "version": "1.0.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/stacktape/stacktape/issues"
+  },
+  "author": "Stacktape team <info@stacktape.com> (https://stacktape.com)",
+  "scripts": {},
+  "dependencies": {
+    "@ai-sdk/amazon-bedrock": "^4.0.50",
+    "ai": "^6.0.73"
+  },
+  "devDependencies": {
+    "stacktape": "^3.4.0"
+  }
+}
